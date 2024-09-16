@@ -1,4 +1,4 @@
-#Loader semaforo con animación con HTML y CSS
+# Loader semaforo con animación con HTML y CSS
 
 ![4](https://github.com/user-attachments/assets/ff256175-91d8-4ce4-aa5b-638295cc7194)
 ![3](https://github.com/user-attachments/assets/156b544f-9076-4ee0-8ecb-cbbc7f09e0ec)
